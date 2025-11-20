@@ -1,3 +1,7 @@
+# test files
+test*.*
+verifyCode.jpg
+
 # Logs
 logs
 *.log
